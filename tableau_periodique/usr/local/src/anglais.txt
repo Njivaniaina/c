@@ -1,0 +1,28 @@
+       welcome in the help of the periodic table. The programm hat many
+options to execut specifical actions. So ,It's important to know all commands to use for execut the programm, 
+
+        1-In the programm, we hace in the menu 1 : the menu <Explore> ,it's the same to the recherch menu
+                ==> All : display every atom
+                ==> Name : To cherch atom's names
+                ==> SYMBOL :  To cherch the correspondance's symbol
+                ==> Atomic's numero : to cherch atomic's numero
+                ==> Weit aotmic : To cherch the correspondance numero
+        So , it's a menu of recherch .
+
+        2- The second choice consist, A little game , It's for test your knowledje
+        
+        ==> Name and Symbol : you must find the name or symbol of indice ,who the computer give
+        ==> Weit Atomics and Atomic number : you must find the weit or numbre of the indice ,who the computer give to you
+        ==> Level : It's a menu to choose the dificulty of the game
+
+        3- The 3 choice is just here to choose the language of the programm
+
+        4 - It's consist to exit the programm
+
+We can puts arguments with the command
+like, 
+        ==>tableau 1 : To enter directly in the search menu
+        ==>tableau 2 : to enter directly in the second option
+        ==>tableau 2 1 : to run directly on the word games of the atome.
+
+

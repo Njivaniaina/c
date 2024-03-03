@@ -1,0 +1,33 @@
+        Bienvenue dans le menu d'aide du tableau periodique. Le programme possede plusieurs
+ options pour executer des taches specifiques. Il est alors necessaire de connaitre
+les commandes a utilises pour executer le programme, comme dans un terminal on execute 
+"tableau" apres l'installation.
+    1-Entrons dans le programme, on a sur le menu 1 le menu <Exploiter> , c'est comme une menu de recherche
+qui contient d'autres menus commes : 
+        ==>TOUS : permet d'afficher tout les atomes
+        ==>NOM : Pour rechercher un nom d'atome dans les donnes dans le memoire
+        ==>SYMBOLE : Pour rechercher les symboles correspondant
+        ==>NUMERO ATOMIQUE : Pour rechercher des numeros atomique
+        ==>MASSE ATOMIQUE : Pour rechercher des masses atomique
+En resume, c'est une menu de RECHERCHE et on peut l'entree dans cette sous menu par le commandes --) tableau 1 (--.
+
+    2-Le deuxieme choix consite, le petit jeu pour apprendre a retenir et etudier les atomes.
+Ce programme consite en deux grands jeux.L'un , c'est une jeu de pendu et l'autre c'est une jeu de devinette d'un nombre.
+Entrons un a un :
+        ==>NOM et SYMBOLE : consite a deviner le nom ou le symbole d'un atome lettre par lettre ; et il y a un coups qui
+est limitee et differentie selon le choix (dans NOM , c'est 10 coups et dans le symbole , c'est juste 4 coups). Il y aura 
+des indices des le debut et au milieu.
+        ==>MASSE ATIMIQUE et NUMERO ATOMIQUE : consiste a deviner la masse atomique ou le numero atimique d'un atome.
+C'est comme le jeu de mots qui est limite par le coups et des indices.
+        ==>NIVEAU :C'est pour choisir le nombre d'atome maximum que le programme pioche au hasard.(Par exemple : max =20 atomes
+pour le nivau facile... ).Par defaut, c'est le niveau facile des que l'on ouvre le programme.
+
+    3-Le troisieme choix , c'est juste de choisir le language que l'on veut ou on sait.(Malagasy, Francais, Anglais)
+
+On peut naviguer directement dans les sous menus comme on l'a dit ci-dessus en mettant des arrguments ou exacement des 
+choix de menu apres le commandes .
+Exemple: 
+    ==>tableau 1 : Pour entrer directement dans le menu de recherche
+    ==>tableau 2 : Pour entrer dans le deuxieme menu 
+    ==>tableau 2 1: pour jouer directement dans le jeu de mots nom des atomes.
+

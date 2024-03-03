@@ -1,0 +1,72 @@
+francais
+TABLEAU PERIODIQUE=FAFANA PERIODIKA=PERIODIC TABLE
+Exploiter=Hijery=Explore
+Jeu=Kilalao=Games
+Language=Fiteny=Language
+Aide=Fanoroana=Help
+Sortir=Hivoaka=Quit
+Votre choix : =Ny safidinao : =Your choice : 
+RECHERCHE=FITADIAVANA=SEARCH
+Tous=Rehetra=All
+Nom=Anarana=Name
+Symbole=Marika=Symbol
+Numero atomique=Isa atomika=Atomic number
+Masse atomique=Lanja atomika=Atomic mass
+Retour=Hiverina=Return
+Nom de l'element=Anaran'ilay singa=Name of the atome
+Sa symbole=Marikany=Its symbol
+Numero atomique=Isa atomika=Atomic number
+Masse atomique=Lanja atomika=Atomic mass
+Description=Famaritana=Description
+Taper un nom : =Soraty ilay anarana : =Entre the name : 
+Taper un Symbole : =Soraty ilay marika : =Entre the Symbol : 
+Taper un numero atomiquie : =Soraty ilay lanja atomika : =Entre the atomic number : 
+Taper un masse atomiquie : =Soraty ilay laharana atomika : =Entre the atomic mass :
+Il n'y a pas de correspondance de nom :=Tsy misy mitovy amin'ny anarana :=There is not no more :
+dans les noms du memoire.= ao amin'ny anarana misy ato.= in the memories of names.
+Il n'y a pas de correspondance de symbole :=Tsy misy mitovy amin'ny marika :=There is not no more :
+dans les symboles du memoire.= ao amin'ny marika misy ato.= in the memories of symbols.
+Il n'y a pas de correspondance de Numero atomiquie :=Tsy misy mitovy amin'ny laharana :=There is not no more :
+dans les numeros atomiques du memoire.= ao amin'ny laharana atomika misy ato.= in the atomic number of memories.
+Il n'y a pas de correspondance de masse :=Tsy misy mitovy amin'ny lanja :=There is not no more :
+dans les masses atomiques du memoire.= ao amin'ny lanja atomika misy ato.= in the atomic mass of memories.
+Taper un cle pour continuer...=Manindria zavatra iray hitohizany...=Entre any key to continue...
+Choix indisponible!!!=Safidy tsy misy!!!=Choice unanvailable!!!
+Veuiller a choisir bien le choix.=Tandremo tsara izay zavatra soratana.=Please be carefully when you entre.
+Patienter pendant 3 secondes...=Miandrasa mandritran'ny 3 segondra...=Wait for a 3 seconds...
+J E U X=LALAO=G A M E S
+C'est partie!!!!Essayer de deviner le nom de l'atome.=Lasa izao eee!!!Andramo amin'izay ary ny mamantara ny anaran'ilay atoma.=Let's go!!!Try to find the name of the atome.
+C'est partie!!!!Essayer de deviner la symbole de l'atome.=Lasa izao eee!!!Andramo amin'izay ary ny mamantara ny marika an'ilay atoma.=Let's go!!!Try to find the atome symbol.
+C'est partie!!!!Essayer de deviner le numero atomique de l'atome.=Lasa izao eee!!!Andramo amin'izay ary ny mamantara ny laharana atomika an'ilay atoma.=Let's go!!!Try to find the atome number.
+C'est partie!!!!Essayer de deviner la masse atomique de l'atome.=Lasa izao eee!!!Andramo amin'izay ary ny mamantara ny lanja atomika an'ilay atoma.=Let's go!!!Try to find the atome mass.
+Vous avez =Manana =You have 
+ coups.= andrana ianao.= number to try.
+Le mot est : =Ilay tenny dia : =The word is : 
+Taper une lettre : =Manidria litera iray : =Entrer one lettre : 
+La description de l'atome est : =Ny mobamoba an 'ilay atoma dia : =The description of the atome is : 
+Vous disposer de =Manana =You have 
+Vous n'aviez pas encore trouvee.=Mbola tsy hitanao ihany ny valiny.=You haven't found the answer yet.
+Aller, je vous aide : sa masse atomique est =Andao fa ampiako ianao : ny lanja atomikany dia =Let me help you : its atomic mass is 
+ et son numero atomique est = sy ny laharany atomikany dia = and its atomic number is 
+son symbole est = ny marikany dia = its symbol is 
+ BIEN JOUER=ARABAINA EEE=CONGRATULATION
+Le mot est : =Ilay anarana dia  : =The name is : 
+L'atome est : =Ilay atoma dia : =The atome is : 
+PERDU=RESYYY=GAME OVER
+Veuillez bien a ce que vous taper. Retaper : =Tandremo tsara ny zavatra tsindrianao. Miverena manidry : =Touch unanvailable. Retry : 
+C'est moins.=Ambany noho io.=Less than this.
+C'est plus.=Ambony noho io.=Gretter than this.
+Bien jouer!!!=Arabaina !!!=Congratulation!!!
+ et son masse atomique est = sy ny lanja atomikany dia = and its atomic mass is 
+Oh!!!Vous aviez perdu...=Oh!!!Resy ianao...=Oh!!!You are losted...
+Taper un nombre : =Manidria isa iray : =Entrer one numeber : 
+LANGUAGE=FITENY=LANGUAGE
+Francais=Frantsay=French
+Malagasy=Malagasy=Malagasy
+Anglais=Anglisy=English
+NIVEAU=FAHASAROTANA=LEVEL
+Facile=Tsotra=Easy
+Moyen=Antonony=Moyen
+Difficile=Sarotra=Hard
+Niveau=Fahasarotana=Level
+Vous êtes dans le niveau =Ianao dia eo amin'ny sokajy =You are in the level 

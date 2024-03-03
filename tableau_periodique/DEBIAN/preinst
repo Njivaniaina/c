@@ -1,0 +1,10 @@
+#!/bin/bash
+  
+echo -e "\e[33mVous voulez vraiment installer l'application \"Tableau Periodique\"?"
+read -p "[oui ou non]====> " reponse
+
+if [ "$reponse" == "oui" ];then
+	echo -e "Debut de l'installation en cours..."
+else
+	exit
+fi

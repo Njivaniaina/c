@@ -1,0 +1,9 @@
+#!/bin/bash
+read -p "Voulez-vous vraiment desinstaller [oui/non]?" reponse
+if [ "$reponse" == "oui" ];then
+	echo -e " \e[5;31mDebut du desinstallation ...\e[0m "
+	figlet -k " Veuillez patienter !! "
+else
+	echo -e " \e[5;31mVous avez annuler la desinstallation .\e[0m "
+	exit
+fi

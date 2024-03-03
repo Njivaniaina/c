@@ -1,0 +1,9 @@
+Package : TableauPeriodique
+Version : 0.0.2
+Section : base
+Priority : optional
+Architecture : all
+Depends : bash 
+Maintainer : "Groupe 4"
+Description : C'est un programme qui contient des informations sur les atomes et contient aussi un mini jeu.
+Homepage : none

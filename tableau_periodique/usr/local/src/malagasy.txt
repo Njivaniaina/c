@@ -1,0 +1,35 @@
+        Tongasoa ato amin'ny safidy fanampiana ao amin'ny tabilao periodika. Ito programa ito dia manana safidy 
+maro ianao afaka jereana mba ahafahana mianatra sy mila voly. Tokony mahafantatra , arak'izany ny asan'ity programa 
+ity sy ny hoe inona no hilavana azy ny mpajifa rehetra. Afaka mampadefa an'ity programa ity ao amin'ny "teminal" 
+ianao amin'ny alalan'ny baiko hoe "tableau" ao arinan'ny "installation".
+    1-Ande ary hojerena ny safidy misy ao aminy, ny voalohany dia ny safidy 1 <HIJERY>, ahafahana mijery na mitady
+atoma ao anaty tahiry, mbola mizara ho maro koa ny sokajy ao :
+        ==>Rehetra : mba ahafahana mijery indray miseo ireo atoma iray manontolo
+        ==>Anarana : ahafahana mitady anarana atoma iray
+        ==>Marika : ahafahana mitady marika an'ny atoma indray
+        ==>laharana atomika :  ahafahana mitady laharana mifanaraka amin'ny atoma iray ao amin'ny tahiry
+        ==>lanja atomika : ahafahana mitady lanja ara-atomika ny atoma iray
+Ho famitinana izany, ny safidy voalohany dia karazana fitadiavana an'ireo atoma misy araka ny zavatra fantatra mahakasika azy.
+
+     2-Ny safidy faharoa indray dia mahakasika kilalao kely iray mba ahafahana mitadidy sy mianatra ireo atoma rehetra.
+Io programa kilalao io dia mizara ho roa lehibe, dia ny kilala an-teny sy ny kilalao ara-tarehimarika;
+Andeha ary ho jerena tsirairay indray ny ao anatiny:
+        ==>ANARANA sy MARIKA : ireo lalao ireo dia miezaka mamantatra ny anarana na ny marika an'ilay atoma ny mpilalao
+ka voafetra ihany ny fampidirana litera afaka ampidirina. Isaky ny mahita litera ilay mpilalao dia apotrany ilay litera 
+misy ao amin'ilay anarana na marika an'ilay atoma .Ho fanampiana ny hitadiavana azy dia nasiana toromakika ahafahana maminavina
+ilay anarany ny mpilalao.
+        ==>LANJA ATOMIKA sy LAHARANA ATOMIKA : io indray dia lalao maminaviana ny lanja na ny laharana atomikan'ny atoma iray.
+Ny kilalao rehetra dia misy fahasaritana daholo ka manombola ny:
+    *Tsotra : hamaroany atoma mety ho ao dia 20 voalohany, 
+    *Antonony : mihisa 60 ny atome ao 
+    *Sarotra : ny atoma rehetra mety ho itanao ao daholo
+
+    3-NY safidy fahatelo dia fisafidianana fiteny fotsiny ihany ka misy telo no ao dia ny frantsay , malagasy sy ny anglisy.
+
+Afaka manitsy tonga dia amin'ny safidinao ianao raha toa ka mila amin'ny alalan'ny fanasiavana 
+fanampiny eo amin'ny baiko izay ataonao.
+Ohatra :
+    ==>"tableau 1" : mba ho tonga dia ao amin'ny safidy fitadiavana ianao
+    ==>"tabilao 2" : mba ho tonga dia ao amin'ny safidy hilalao ianao
+    ==>"tableau 2 1" : mba ho tonga dia hilalao no sady anarana no lalaovinao
+
