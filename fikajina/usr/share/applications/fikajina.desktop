@@ -1,0 +1,15 @@
+[Desktop Entry]
+# Translators: This is the Application Name used in the Vim desktop file
+Name[mg]=Vim
+Name=fikajina
+GenericName[fr]=Calculatrice basique
+GenericName[mg]=fanaovana kajy tsotra
+GenericName=Fikajiana
+TryExec=fikajina
+Exec=fikajina
+Terminal=false
+Type=Application
+Keywords[fr]=Calculatrice;
+Keywords=fikajina;
+Icon=/usr/share/icons/fikajina.png
+Categories=Utility;Calclu;

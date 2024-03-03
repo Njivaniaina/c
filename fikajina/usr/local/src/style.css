@@ -1,0 +1,54 @@
+.bouton:hover{
+    border-radius: 10px;
+    color: black;
+    font-size: 18px;
+    margin: 2px;
+} 
+
+.bouton:active{
+    color: black;
+    font-size: 30px;
+}
+.bouton{
+    background: linear-gradient(180deg, blue, green);
+    border-radius: 5px;
+    color: black;
+    margin: 2px;
+}
+.bouton1:hover{
+    background-color: rgb(40, 106, 228);
+    border-radius: 10px;
+    color: black;
+    font-size: 18px;
+    margin: 2px;
+} 
+
+.bouton1:active{
+    background-color: rgb(226, 46, 14);
+    color: black;
+}
+.bouton1{
+    background: linear-gradient(180deg, blue, green);
+    border-radius: 5px;
+    color: black;
+    margin: 2px;
+}
+
+.fampidirana {
+    font-size: 30px;
+    background-color: rgb(112, 121, 65);
+    border-radius: 10px;
+    color: black;
+}
+
+.fen {
+    background-color: rgb(58, 72, 95);
+}
+
+.fiatombohany {
+    min-height: 20px;
+    min-width: 20px;
+}
+.var {
+    background-color: green;
+}

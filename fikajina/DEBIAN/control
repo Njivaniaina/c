@@ -1,0 +1,10 @@
+Package: Fikajina
+Version: 0.1-fikajina
+Section: base
+Priority: optional
+Architecture: all
+Build-Depends: gcc, libgtk-3-dev
+Depends: gcc
+Maintainer: Le Chat<chatle@gmail.com>
+Description: Fikajiana
+Homepage: none
